@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence Dashboard",
+  "description": "Interactive retail analytics dashboard for performance metrics, regional sales trends, inventory stockout risks, and automated business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
